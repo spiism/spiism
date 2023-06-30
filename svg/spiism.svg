@@ -73,6 +73,7 @@
         }
         .greeting p {
           color: #4527a0 !important;
+          margin-top:-5px;
         }
 				.skills {
           display: inline-flex;
