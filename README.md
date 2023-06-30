@@ -1,8 +1,11 @@
+
+<!-- HEADER -->
 <a href="#" target="_blank">
   <img src="svg/spiism.svg" width="1200" alt="michael-ho" />
 </a>
 
 
+<!-- GITHUB STATS -->
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
