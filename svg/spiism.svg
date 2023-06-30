@@ -72,7 +72,7 @@
           color: #22b7c9;
         }
         .greeting2 {
-          color: #4527a0;
+          color: #4527a0 !important;
         }
 				.skills {
           display: inline-flex;
