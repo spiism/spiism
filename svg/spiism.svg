@@ -91,7 +91,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi there!<br/><p class="greeting2">I'm Michael Ho.</p>
+          Hi there!<br/><p>I'm Michael Ho.</p>
         </div>
         <div class="skills">
           <div class="skills_icon">
@@ -203,7 +203,7 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-           Hi there!<br/>I'm Michael Ho.
+           Hi there!<br/><p>I'm Michael Ho.</p>
         </div>
         <div class="skills">
           <div class="skills_icon">
