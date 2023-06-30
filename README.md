@@ -1,4 +1,3 @@
-[label](https://git.io/typing-svg)
 <!-- TITLE -->
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
