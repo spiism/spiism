@@ -5,6 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C43CCA&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Simplify%2C+simplify%2C+simplify." alt="Typing SVG" /></a>
 </p>
 
+<!-- HEADER -->
+<a href="#" target="_blank">
+  <img src="svg/spiism.svg" width="1200" alt="michael-ho" />
+</a>
+
 
  <!-- PROFILE BANNER -->
   <br>
