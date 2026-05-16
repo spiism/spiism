@@ -6,12 +6,6 @@
 </p>
 
 
-<!-- HEADER -->
-<a href="#" target="_blank">
-  <img src="svg/spiism.svg" width="1200" alt="michael-ho" />
-</a>
-
-
  <!-- PROFILE BANNER -->
   <br>
 
@@ -32,6 +26,8 @@
   ╚══════════════════════════════════════════════════════════════════╝
   ```
 
+  </div>
+
   ```json
   {
     "name": "Michael Ho",
@@ -44,7 +40,5 @@
     "hobbies": ["Technology", "Problem-solving", "Learning", "Building"]
   }
   ```
-
-  </div>
 
   <br>
